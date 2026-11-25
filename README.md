@@ -1,1 +1,1 @@
-# movie-recommend
+Open index.html in a browser to run the project.

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Avatar",
+    "genre": "Action"
+  },
+  {
+    "title": "Avengers",
+    "genre": "Action"
+  },
+  {
+    "title": "Iron Man",
+    "genre": "Action"
+  },
+  {
+    "title": "Thor",
+    "genre": "Action"
+  },
+  {
+    "title": "Doctor Strange",
+    "genre": "Action"
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "genre": "Action"
+  },
+  {
+    "title": "Titanic",
+    "genre": "Romance"
+  },
+  {
+    "title": "The Notebook",
+    "genre": "Romance"
+  },
+  {
+    "title": "La La Land",
+    "genre": "Romance"
+  },
+  {
+    "title": "Me Before You",
+    "genre": "Romance"
+  }
+]
